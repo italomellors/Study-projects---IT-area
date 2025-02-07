@@ -1,0 +1,5 @@
+horario = int(input('Digite o Horario desejado'))
+if 0 < horario < 6 : print("Boa Madrugada ")
+if 6 < horario < 12 : print("Boa Madrugada ")
+if 12 < horario < 18 : print("Boa Madrugada ")
+if 18 < horario < 24: print("Boa Madrugada ")

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731119553 source:c:\programação\c\codblocks\4. numero sorteado\numero_sorteado\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
